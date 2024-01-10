@@ -2,7 +2,7 @@ import { useMemo } from "react";
 import { useGlobalFilter, usePagination, useTable } from "react-table";
 import DataTablePagination from "./DataTablePagination";
 import DropFilter from "./DropFilter";
-import PanelActionButton from "./PanelActionButton (1)";
+import PanelActionButton from "./PanelActionButton.jsx";
 import SearchTable from "./SearchTable";
 import Table from "./Table";
 import Dropdowns from "./DropFilter.jsx";
