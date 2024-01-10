@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { removeAttribute } from "../../utils/commonFunction";
 
 const PanelActionButton = ({ buttons = [] }) => {
