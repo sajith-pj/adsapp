@@ -1,7 +1,7 @@
 import React from "react";
 import Styles from "../modal.module.scss";
 import classNames from "classnames";
-import CloseIcon from "../../../assets/Icons/Clos";
+import CloseIcon from "../../../assets/icons/Close";
 const ModalHeader = ({
   heading,
   subHeading,

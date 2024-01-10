@@ -1,6 +1,6 @@
 /* eslint-disable react/prop-types */
 import { useState } from "react";
-import ChevronDown from "../Icons/ChevronDown";
+import ChevronDown from "../icons/ChevronDown";
 import classNames from "classnames";
 
 const Dropdown = ({
