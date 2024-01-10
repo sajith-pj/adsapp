@@ -1,4 +1,4 @@
-import Dropdown from "../DropDown";
+import Dropdown from "../Dropdown";
 
 const DropFilter = ({ options = [], onFilterClick }) => {
   return (
