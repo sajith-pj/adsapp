@@ -1,4 +1,4 @@
-import { removeAttribute } from "../../Utils/commonFunction";
+import { removeAttribute } from "../../utils/commonFunction";
 
 
 const PanelActionButton = ({ buttons = [] }) => {
