@@ -1,9 +1,9 @@
+import Dropdown from "../DropDown";
 
-import Dropdowns from "../DropDown"
 const DropFilter = ({ options = [], onFilterClick }) => {
   return (
     <div>
-      <Dropdowns
+      <Dropdown
         optionsList={options}
         onClick={onFilterClick}
         buttonClassName="border border-gray-500 px-4 py-2 rounded-[10px]"

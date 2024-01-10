@@ -1,3 +1,4 @@
+/* eslint-disable react/prop-types */
 import { useState } from "react";
 import ChevronDown from "../Icons/ChevronDown";
 import classNames from "classnames";
@@ -12,7 +13,7 @@ const Dropdown = ({
   const [isOpen, setIsOpen] = useState(false);
   const [selected, setSelected] = useState({
     name: "",
-    value: "",  
+    value: "",
   });
 
   const onOptionClick = ({ name, value }) => {
