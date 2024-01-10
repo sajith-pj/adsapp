@@ -1,5 +1,5 @@
 import Form from "../../components/Form/Form";
-import { RegisterForm } from "../../Utils/Forms/register";
+import { RegisterForm } from "../../utils/Forms/register";
 const Register = () => {
   return (
     <div className="h-screen w-full flex justify-center  px-4 items-center">

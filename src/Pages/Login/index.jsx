@@ -1,7 +1,7 @@
 
 import { Link } from "react-router-dom";
 import Form from "../../components/Form/Form"
-import { loginForm } from '../../Utils/Forms/login'
+import { loginForm } from '../../utils/Forms/login'
 
 const Login = () => {
   return (
