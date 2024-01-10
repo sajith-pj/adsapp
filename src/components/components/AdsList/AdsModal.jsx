@@ -1,6 +1,6 @@
 import React from 'react'
 import Form from '../Form/Form'
-import { addAds } from '../../Utils/Forms/addAds'
+import { addAds } from '../../utils/Forms/addAds'
 
 const AdsModal = () => {
   return (
